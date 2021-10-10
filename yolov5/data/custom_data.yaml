@@ -1,0 +1,12 @@
+
+
+train: /content/dataset_yolo/images/train/ 
+val: /content/dataset_yolo/images/val/
+
+
+# Classes
+nc: 1  # number of classes
+
+names: ['product']  # class names
+
+
